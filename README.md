@@ -15,7 +15,7 @@ In this project, multiple email samples were analyzed to identify phishing indic
 
 ## Project Objectives
 
-- -	Identify phishing indicators in email messages
+- Identify phishing indicators in email messages
 -	Analyse suspicious links and sender addresses
 -	Classify emails based on risk level
 -	Phishing techniques in business-friendly language
