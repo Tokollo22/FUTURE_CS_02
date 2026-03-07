@@ -1,0 +1,11 @@
+From: hr@company.com
+Subject: Monthly Staff Meeting Reminder
+
+Hello Team,
+
+This is a reminder that the monthly staff meeting will take place on Friday at 10:00 AM in the conference room.
+
+Please ensure you attend on time.
+
+Regards,
+HR Department
