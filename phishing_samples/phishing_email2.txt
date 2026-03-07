@@ -1,0 +1,13 @@
+From: delivery@fastcourier-service.com
+Subject: Delivery Failed – Update Address
+
+Dear Customer,
+
+Your package delivery failed due to an incorrect address.
+Please update your delivery details using the link below:
+
+http://update-delivery-info-fastcourier.com
+
+Your package will be returned if the address is not updated within 12 hours.
+
+Courier Service Team
