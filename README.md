@@ -109,7 +109,7 @@ Links in phishing emails lead users to credential-stealing pages or malicious we
 
 Users can reduce phishing risks by following these security practices:
 
-- -	Do not click suspicious links in emails.
+- Do not click suspicious links in emails.
 -	Report suspicious emails to the IT/security team.
 -	Never share passwords or personal information via email.
 -	Hover over links to check the real website address.
